@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "calculadora-expo",
+    "slug": "calculadora-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffe9f3"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffe9f3"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
