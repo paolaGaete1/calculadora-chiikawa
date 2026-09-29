@@ -4,10 +4,16 @@ Calculadora temática de **Chiikawa** compatible con **Web, iOS y Android** usan
 
 ## 📱 Vista previa
 
+<p align="center">
+  <img src="./assets/preview-basic.png" alt="Chiikawa Calculator - Modo Básico" width="280" />
+  <img src="./assets/preview.png" alt="Chiikawa Calculator - Modo Científico" width="280" />
+</p>
+<p align="center"><em>Modo Básico (izquierda) y Modo Científico (derecha)</em></p>
+
 ## Estructura
 
 ```
-calculadora-expo/
+calculadora-chiikawa/
 ├── App.js                     # Punto de entrada, monta <Calculator />
 ├── components/
 │   └── Calculator.js          # UI + estilos responsivos
