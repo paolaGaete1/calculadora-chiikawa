@@ -1,6 +1,8 @@
-# Calculadora (Expo + React Native)
+# 🌸 Calculator Chiikawa (Expo + React Native)
 
-Calculadora simple compatible con **web, iOS y Android** usando Expo.
+Calculadora temática de **Chiikawa** compatible con **Web, iOS y Android** usando Expo.
+
+## 📱 Vista previa
 
 ## Estructura
 
